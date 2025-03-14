@@ -14,13 +14,6 @@ describe('Login', () => {
 
         })
 
-        beforeEach(() => {
-             // Dado
-            cy.viewport(element)
-            cy.visit('/login')
-
-        })
-
 
     // cenário de teste 1
     it(`Login com senha errada - ${element}`, () => {
