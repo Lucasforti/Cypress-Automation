@@ -1,5 +1,3 @@
-# 🚀 Passo a Passo para Clonar o Repositório e Rodar a Automação com Cypress
-
 🎉 Bem-vindo ao repositório de **Cypress Automation**! Este repositório contém testes automatizados escritos com Cypress para validar funcionalidades da aplicação.
 
 Aqui está o **passo a passo** para clonar o repositório e rodar os testes de automação na sua máquina local. Vamos lá! 👇
@@ -7,7 +5,23 @@ Aqui está o **passo a passo** para clonar o repositório e rodar os testes de a
 
 Pré-Requisitos:
 
----
+Git Instalado:
+```bash
+Baixe o Git em https://git-scm.com/downloads.
+```
+Verifique a instalação do Git com o comando (através da aplicação Git Bash):
+
+```bash
+git --version
+```
+Node.js instalado:
+```bash
+Baixe o Node.js em https://nodejs.org/.
+```
+Para verificar se o Node.js está instalado corretamente, execute o comando no terminal:
+```bash
+node -v
+```
 
 1. Clone o Repositório 🛠️
 
