@@ -13,16 +13,16 @@ Abra o **Git Bash** e siga as instruções abaixo:
 ### 1.1 Navegue até o diretório onde você deseja clonar o repositório:
 Por exemplo, se você deseja clonar na pasta `C:\projetos`, execute o seguinte comando:
 
+1.2 Clone o repositório do GitHub:
 ```bash
 cd /c/projetos
-1.2 Clone o repositório do GitHub:
-Use o comando abaixo para clonar o repositório:
 
-bash
-Copiar
+```
+Use o comando abaixo para clonar o repositório:
+```bash
 git clone https://github.com/Lucasforti/Cypress-Automation.git
 🔄 Isso criará uma cópia local do repositório na sua máquina.
-
+```
 2. Instale as Dependências 📦
 Agora que você clonou o repositório, vamos instalar as dependências do projeto:
 
