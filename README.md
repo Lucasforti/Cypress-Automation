@@ -17,7 +17,7 @@ Node.js instalado:
 ```bash
 https://nodejs.org/
 ```
-Para verificar se o Node.js está instalado corretamente, execute o comando no terminal:
+Verifique a instalação do Git com o comando (através da aplicação Git Bash):
 ```bash
 node -v
 ```
