@@ -22,11 +22,11 @@ Verifique a instalação do Git com o comando (através da aplicação Git Bash)
 node -v
 ```
 
-### 1. Clone o Repositório 🛠️
+## 1. Clone o Repositório 🛠️
 
 Abra o **Git Bash** e siga as instruções abaixo:
 
-## 1.1 Navegue até o diretório onde você deseja clonar o repositório:
+### 1.1 Navegue até o diretório onde você deseja clonar o repositório:
 Por exemplo, se você deseja clonar na pasta `C:\projetos`, execute o seguinte comando:
 ```bash
 cd /c/projetos
