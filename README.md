@@ -4,25 +4,26 @@
 
 Aqui está o **passo a passo** para clonar o repositório e rodar os testes de automação na sua máquina local. Vamos lá! 👇
 
+
+Pré-Requisitos:
+
 ---
 
-## 1. Clone o Repositório 🛠️
+1. Clone o Repositório 🛠️
 
 Abra o **Git Bash** e siga as instruções abaixo:
 
 ### 1.1 Navegue até o diretório onde você deseja clonar o repositório:
 Por exemplo, se você deseja clonar na pasta `C:\projetos`, execute o seguinte comando:
-
-1.2 Clone o repositório do GitHub:
 ```bash
 cd /c/projetos
-
 ```
-Use o comando abaixo para clonar o repositório:
+
+1.2 Clone o repositório do GitHub usando o comando abaixo:
 ```bash
 git clone https://github.com/Lucasforti/Cypress-Automation.git
-🔄 Isso criará uma cópia local do repositório na sua máquina.
 ```
+
 2. Instale as Dependências 📦
 Agora que você clonou o repositório, vamos instalar as dependências do projeto:
 
