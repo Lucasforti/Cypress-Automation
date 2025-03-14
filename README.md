@@ -32,31 +32,31 @@ Por exemplo, se você deseja clonar na pasta `C:\projetos`, execute o seguinte c
 cd /c/projetos
 ```
 
-## 1.2 Clone o repositório do GitHub usando o comando abaixo:
+### 1.2 Clone o repositório do GitHub usando o comando abaixo:
 ```bash
 git clone https://github.com/Lucasforti/Cypress-Automation.git
 ```
 
-### 2. Instale as Dependências 📦
-## 2.1 Acesse o diretório do projeto clonado:
+## 2. Instale as Dependências 📦
+### 2.1 Acesse o diretório do projeto clonado:
 ```bash
 cd Cypress-Automation
 ```
-## 2.2 Instale as dependências através do comando:
+### 2.2 Instale as dependências através do comando:
 ```bash
 npm install
 ```
 💡 Esse comando vai ler o arquivo package.json e instalar todas as dependências do projeto.
 
-### 3. Rodar os Testes de Automação 🎯
+## 3. Rodar os Testes de Automação 🎯
 
-## 3.1 Caso queira rodar os testes em modo interativo 🖥️ (com interface gráfica)
+### 3.1 Caso queira rodar os testes em modo interativo 🖥️ (com interface gráfica)
 ```bash
 npx cypress open
 ```
 🌟 Isso abrirá a interface gráfica do Cypress, onde você poderá escolher (E2E) manualmente e executar os testes.
 
-## 3.2 Caso queira rodar os testes em modo headless, ideal para CI/CD ou execução rápida 🏃‍♂️ (sem interface gráfica)
+### 3.2 Caso queira rodar os testes em modo headless, ideal para CI/CD ou execução rápida 🏃‍♂️ (sem interface gráfica)
 
 ```bash
 npx cypress run
